@@ -42,3 +42,50 @@ code7.m
 
 ![7](https://github.com/user-attachments/assets/926cf934-090c-44f8-8c08-19eacf6057ce)
 
+
+graph2.m (Weighted tree with 3 levels)
+
+![1](https://github.com/user-attachments/assets/b34b597c-4c18-47d4-862f-25bf61034433)
+
+
+
+graph1.m   =>
+
+    1. Original Graph
+    
+    ![7](https://github.com/user-attachments/assets/1b07ab79-1357-4569-a7e6-50889513a345)
+
+    2. SubGraph with Nodes 1,2,4
+
+    ![6](https://github.com/user-attachments/assets/52446758-2c78-4998-8cf4-8581b70ad313)
+
+
+    3. graph with node and edge labels
+
+    ![5](https://github.com/user-attachments/assets/fb36010e-9058-4cf0-987a-c0966693e0b9)
+
+
+    4. Graph Coloring
+
+    ![4](https://github.com/user-attachments/assets/1d4c5211-5d65-4e64-a077-ea93f1a9d5db)
+
+
+    5. Shortest path from node 1 to node 5
+
+    ![3](https://github.com/user-attachments/assets/3d23082c-4ea9-413e-b187-e9e65bddf146)
+
+
+  
+
+
+    
+
+
+
+
+
+    
+
+
+
+
