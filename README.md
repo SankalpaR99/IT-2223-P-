@@ -32,3 +32,6 @@ FunctionIntro.m
 ![image](https://github.com/user-attachments/assets/52ab75ca-acd1-4eff-a270-9ec3fcdea15c)
 
 
+arithmeticOperations.m
+
+![image](https://github.com/user-attachments/assets/3bfd8e4a-c8c9-45cf-b28f-d77424bae181)
