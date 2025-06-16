@@ -51,9 +51,9 @@ graph2.m (Weighted tree with 3 levels)
 
 graph1.m   =>
 
-    1. Original Graph
+1. Original Graph
     
-    ![7](https://github.com/user-attachments/assets/1b07ab79-1357-4569-a7e6-50889513a345)
+   ![7](https://github.com/user-attachments/assets/1b07ab79-1357-4569-a7e6-50889513a345)
 
     2. SubGraph with Nodes 1,2,4
 
