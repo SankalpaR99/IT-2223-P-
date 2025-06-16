@@ -1,6 +1,8 @@
 # IT-2223-P-
 Design and Analysis of Algorithms
 
+FUNCTIONS
+
 
 addNumbers.m
 
@@ -35,3 +37,8 @@ FunctionIntro.m
 arithmeticOperations.m
 
 ![image](https://github.com/user-attachments/assets/3bfd8e4a-c8c9-45cf-b28f-d77424bae181)
+
+
+timeComplexity.m
+
+![image](https://github.com/user-attachments/assets/a6a35ad8-ac5d-405c-aae3-553c19eea55b)
